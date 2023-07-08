@@ -20,10 +20,12 @@ $ pkg upgrade -y
 $ pkg install git -y
 $ pkg install python -y
 $ rm -rf MolaTV
-$ git clone https://github.com/hunternblz/MolaTV
+$ git clone https://github.com/rahmadyxz
 $ cd MolaTV
 $ python run.py
-```
+`````````````````````
+Credit : Hunternblz
+`````````````````````
 
 ## Windows
 * <a href="https://github.com/hunternblz/MolaTV/releases/latest/download/Mola.TV.MPS.Package.exe">DOWNLOAD V1.6</a>
